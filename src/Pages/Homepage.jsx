@@ -1,0 +1,14 @@
+import React from "react";
+import '../assets/Css/Homepage.css';
+
+const Homepage = () => {
+    return ( 
+        <>
+            <div className="check">
+                Home page check text
+            </div>
+        </>
+     );
+}
+ 
+export default Homepage;
