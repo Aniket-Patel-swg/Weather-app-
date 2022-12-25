@@ -5,7 +5,7 @@ import Homepage from './Pages/Homepage.jsx';
 function App() {
   return (
     <>
-      check text
+      App .js
       <Homepage />
     </>
   );

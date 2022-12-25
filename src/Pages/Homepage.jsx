@@ -5,7 +5,7 @@ const Homepage = () => {
     return ( 
         <>
             <div className="check">
-                Home page check text
+                Home page 
             </div>
         </>
      );
