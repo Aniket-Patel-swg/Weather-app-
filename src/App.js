@@ -5,7 +5,6 @@ import Homepage from './Pages/Homepage.jsx';
 function App() {
   return (
     <>
-      App .js
       <Homepage />
     </>
   );
