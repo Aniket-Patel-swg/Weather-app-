@@ -10,8 +10,8 @@
   background: transparent;
   box-shadow: 10px 10px 80px rgb(0, 0, 0);
   color: white  ;
-    backdrop-filter: blur(5px) ;
-    background: linear-gradient(-45deg, rgba(13,125,160,0.19), black);
+  backdrop-filter: blur(5px) ;
+  background: linear-gradient(-45deg, rgba(13,125,160,0.19), black);
 
 }
 img{
@@ -26,10 +26,10 @@ img{
     left: 60%;
     width: 40%;
     height: 117vh;
-  background: white;
-  background: transparent;
-  box-shadow: 8px 8px 20px 2px  rgb(0, 0, 0);
-  color: white  ;
+    background: white;
+    background: transparent;
+    box-shadow: 8px 8px 20px 2px  rgb(0, 0, 0);
+    color: white  ;
     backdrop-filter: blur(5px) ;
     background: linear-gradient(-45deg, rgba(13,125,160,0.19), black);
 

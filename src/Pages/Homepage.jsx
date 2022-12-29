@@ -5,6 +5,9 @@ import img from '../assets/images/Homepage-img.jpg';
 const Homepage = () => {
     return ( 
         <div className="HomePage">
+            <div className="weather-title">
+                <h1>Weather.</h1> 
+            </div>
             <div className="HomePage-img">
                 <img src={img} alt="" />
                 
