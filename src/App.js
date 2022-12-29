@@ -6,9 +6,7 @@ import Secondpage from './Pages/Secondpage';
 function App() {
   return (
     <>
-      App .js
-      {/* <Homepage /> */}
-      <Secondpage />
+      <Homepage />
     </>
   );
 }
