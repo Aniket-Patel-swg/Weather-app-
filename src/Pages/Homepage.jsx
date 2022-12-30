@@ -7,6 +7,9 @@ const Homepage = () => {
         <div className="HomePage">
             <div className="weather-title">
                 <h1>Weather.</h1> 
+            </div> 
+            <div className="weather-title">
+                <h1>Weather.</h1> 
             </div>
             <div className="HomePage-img">
                 <img src={img} alt="" />
